@@ -1,0 +1,5 @@
+.godot/
+**/.godot/
+*.tmp
+.DS_Store
+Thumbs.db

@@ -1,0 +1,13 @@
+LISIÈRE UI — ASSET LICENSE v1.0
+
+This license accompanies Lisière UI v1.0.0, including its free sample.
+
+Permission is granted to a lawful recipient to use, copy, modify and incorporate the supplied assets and example code into unlimited finished personal or commercial projects, including games, applications, websites, printed products and client work. Attribution is optional. You may share source assets with collaborators only as needed to work on such a project.
+
+Do not resell, publish, sublicense or redistribute the standalone assets, modified or unmodified, as an asset pack, stock library, generator library or other source-asset product. Distribution embedded in a finished project is allowed, including ordinary technical extractability. Do not claim that you personally drew the original assets or that this pack was created without AI assistance.
+
+The pack was created with generative AI. No promise is made of exclusivity, copyright protectability, engine-specific compatibility or future updates. No third-party fonts or artwork are bundled.
+
+To the extent permitted by applicable law, the assets and example code are provided as is, without warranties. Nothing in this license excludes mandatory consumer rights or other rights that cannot legally be excluded. Marketplace purchase terms and applicable law continue to apply.
+
+The title Lisière UI is a product label, not a claim of registered trademark status.
