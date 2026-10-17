@@ -6,13 +6,15 @@ A small, editable inventory for a cozy Godot prototype. **Six slots, three item 
 
 ![The actual free six-slot sample running in Godot 4.6.1](sample-preview.png)
 
-**[Download the free ZIP](lisiere-ui-sample.zip?raw=true)** · **[Try the larger garden example in your browser](https://lisiere-ui.onrender.com/?utm_source=github&utm_medium=sample&utm_campaign=first-customers#try)** · **[Read the integration guide](https://lisiere-ui.onrender.com/guide)**
+**[Get the free ZIP](lisiere-ui-sample.zip)** · **[Try the larger garden example in your browser](https://lisiere-ui.onrender.com/?utm_source=github&utm_medium=sample&utm_campaign=first-customers#try)** · **[Read the integration guide](https://lisiere-ui.onrender.com/guide)**
+
+On the ZIP file page, choose **Download raw file** (the download-arrow button).
 
 No payment, email signup, plugin or online service is required to run the source sample. The source project makes no network calls.
 
 ## Try it in two minutes
 
-1. Download the free ZIP above and extract it completely. Alternatively, use **Code → Download ZIP** for the browsable Godot source; the graphics-only files are in the included sample ZIP.
+1. Open **Get the free ZIP**, choose **Download raw file**, and extract it completely. Alternatively, use **Code → Download ZIP** for the browsable Godot source; the graphics-only files are in the included sample ZIP.
 2. In the standard **Godot 4.6.1** editor, import `godot/project.godot` and wait for the SVG imports.
 3. Press **F5**. Drag an item into an empty slot to move it, onto the same item to merge, or onto a different item to swap.
 4. Click **Gather 3 apples**. An apple stack holds at most 20; extra apples use available slots. When there is no room, the status tells you how many were accepted.
