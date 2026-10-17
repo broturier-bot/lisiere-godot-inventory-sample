@@ -1,0 +1,20 @@
+{
+  "apple": {
+    "name": "Orchard apple",
+    "description": "A crisp apple picked on the path home. An example of a stackable item.",
+    "max_stack": 20,
+    "icon": "apple"
+  },
+  "mushroom": {
+    "name": "Forest mushroom",
+    "description": "Found beneath the old trees. The demo assigns no edible or healing properties.",
+    "max_stack": 12,
+    "icon": "mushroom"
+  },
+  "seed": {
+    "name": "Wildflower seeds",
+    "description": "A little packet full of possibilities. Replace this description with your game data.",
+    "max_stack": 30,
+    "icon": "seed"
+  }
+}
